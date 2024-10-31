@@ -10,3 +10,4 @@ Eğer *exe* formatındaysa, direkt çalışır. Eğer değilse, o zaman *autohot
 * whatsapp.ahk: Çalıştırıldığı zaman bir metin ve tekrar sayısı soruyor. Whatsapp ekranı Chrome üzerinde açıksa, o sayfayı kontrole alıp o an ekrandaki kişiye flood gönderiyor.
 * gunluk.ahk: Çalışması için Dropbox gerekiyor. `win+r` yapıldığında bir inputbox geliyor, buraya yazılan *dropbox* üzerindeki bir *txt* ya da *html* dosyası editleniyor. O klasör zaten otomatik olarak güncelleniyor.
 * 
+
